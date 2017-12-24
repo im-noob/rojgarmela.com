@@ -1010,7 +1010,7 @@ section.footer .copyright p a:hover {
   }
 }
 /*-- /back to top --*/
-.slideanim {visibility:hidden;}
+.slideanim {visibility:visible;}
 .slide {
     /* The name of the animation */
     animation-name: slide;

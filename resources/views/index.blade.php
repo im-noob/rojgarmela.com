@@ -28,11 +28,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="topbar-w3ls">
 	<a href="index.html" class="logo"><h1>rojgarmela</h1></a>	
 	<div class="top-agileits">
-		<form class="search-container" action="#" method="post">
-			<input id="search-box" type="text" class="search-box" name="q" placeholder="Search Here"/>	
-			<label for="search-box"><span class="glyphicon glyphicon-search search-icon"></span></label>	
-			<input type="submit" id="search-submit" />
-		</form>	
 		<p><span class="glyphicon glyphicon-phone-alt"></span> +91-9523908398</p>
 		<div class="clearfix"></div>
 	</div>
@@ -544,21 +539,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </section>
 <!-- /updates -->
 <section class="map slideanim">
-	<iframe class="googlemaps" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d380510.6741687111!2d-88.01234121699822!3d41.83390417061058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1455598377120" style="border:0" allowfullscreen></iframe>
 	<iframe class="googlemaps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.87831654586!2d86.95705601438908!3d25.241023136116574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f04a7277663691%3A0xbea11dff068ef166!2sVardayani+Institute+of+IT+and+Management!5e0!3m2!1sen!2sin!4v1514113376264" style="border:0" allowfullscreen></iframe>
 </section>
 <!-- /Google Map -->
-<section class="contact-us slideanim" id="contact">
-	<h3 class="text-center slideanim">Contact Us</h3>
-	<p class="text-center slideanim">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+<section class="contact-us " id="contact">
+	<h3 class="text-center ">Contact Us</h3>
+	<p class="text-center ">Just message us we will respond as soon as possible.</p>
 	<div class="container">		
 		<div class="row">
 			<div class="col-lg-5 col-md-5">
 				<div class="contact-info">
-					<h4 class="slideanim">Connect With Us :-</h4>
-					<p class="slideanim"><span>Phone</span>+91-9523908398</p>
-					<p class="slideanim"><span>Email</span><a href="mailto:name@example.com">name@example.com</a></p>
-					<p class="addr slideanim"><span>Address</span>3481 Melrose Place,Beverly Hills, Chicago 90210.</p>
+					<h4 class="">Connect With Us :-</h4>
+					<p class=""><span>Phone</span>+91-9523908398</p>
+					<p class=""><span>Email</span><a href="mailto:name@example.com">name@example.com</a></p>
+					<p class="addr"><span>Address</span>PARWATTI CHOWK, Tatarpur, Bhagalpur-812001 .</p>
 					<ul class="social-icons2">
 						<li><a href="https://www.facebook.com/viim08feb2016/"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -582,7 +576,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<textarea class="form-control slideanim" id="comments" name="comments" placeholder="Comment" rows="5" required></textarea><br>
 					<div class="row">
 						<div class="col-sm-12 form-group">
-							<button class="btn btn-outline1 btn-lg" type="submit">Send</button>
+							<button class="btn btn-outline1 btn-lg slideanim" type="submit">Send</button>
 						</div>
 					</div>
 				</form>			
@@ -660,98 +654,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script src="js/retina-1.1.0.js"></script>
 <script src="js/jquery.hoverex.min.js"></script>
 <script>
-// Portfolio
-(function($) {
-	"use strict";
-	var $container = $('.portfolio'),
-		$items = $container.find('.portfolio-item'),
-		portfolioLayout = 'fitRows';
-		
-		if( $container.hasClass('portfolio-centered') ) {
-			portfolioLayout = 'masonry';
-		}
-				
-		$container.isotope({
-			filter: '*',
-			animationEngine: 'best-available',
-			layoutMode: portfolioLayout,
-			animationOptions: {
-			duration: 750,
-			easing: 'linear',
-			queue: false
-		},
-		masonry: {
-		}
-		}, refreshWaypoints());
-		
-		function refreshWaypoints() {
-			setTimeout(function() {
-			}, 1000);   
-		}
-				
-		$('nav.portfolio-filter ul a').on('click', function() {
-				var selector = $(this).attr('data-filter');
-				$container.isotope({ filter: selector }, refreshWaypoints());
-				$('nav.portfolio-filter ul a').removeClass('active');
-				$(this).addClass('active');
-				return false;
-		});
-		
-		function getColumnNumber() { 
-			var winWidth = $(window).width(), 
-			columnNumber = 1;
-		
-			if (winWidth > 1200) {
-				columnNumber = 5;
-			} else if (winWidth > 950) {
-				columnNumber = 4;
-			} else if (winWidth > 600) {
-				columnNumber = 3;
-			} else if (winWidth > 400) {
-				columnNumber = 2;
-			} else if (winWidth > 250) {
-				columnNumber = 1;
-			}
-				return columnNumber;
-			}       
-			
-			function setColumns() {
-				var winWidth = $(window).width(), 
-				columnNumber = getColumnNumber(), 
-				itemWidth = Math.floor(winWidth / columnNumber);
-				
-				$container.find('.portfolio-item').each(function() { 
-					$(this).css( { 
-					width : itemWidth + 'px' 
-				});
-			});
-		}
-		
-		function setPortfolio() { 
-			setColumns();
-			$container.isotope('reLayout');
-		}
-			
-		$container.imagesLoaded(function () { 
-			setPortfolio();
-		});
-		
-		$(window).on('resize', function () { 
-		setPortfolio();          
-	});
-})(jQuery);
-</script>
-<script>
-$(window).scroll(function() {
-  $(".slideanim").each(function(){
-    var pos = $(this).offset().top;
-
-    var winTop = $(window).scrollTop();
-    if (pos < winTop + 600) {
-      $(this).addClass("slide");
-    }
-  });
-});
 </script>
 <!-- /js files -->
 </body>
