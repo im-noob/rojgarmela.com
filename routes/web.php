@@ -1,4 +1,5 @@
 <?php
+include_once(__DIR__.'/aarav.php');
 
 /*
 |--------------------------------------------------------------------------
@@ -12,5 +13,5 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
