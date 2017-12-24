@@ -1,12 +1,10 @@
-<!--Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+<!--Author: rojgarmela
+Author URL: http://rojgarmela.com
 -->
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Literati An Education Category Flat Bootstrap Responsive  Website Template | Home :: w3layouts</title>
+<title>Literati An Education Category Flat Bootstrap Responsive  Website Template | Home :: rojgarmela</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Literati a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -82,12 +80,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container-fluid">
 		<div class="col-lg-6 col-md-6 col-sm-6 about-info1">
 			<img src="images/about-pic.png" class="mini img-responsive slideanim" alt="">
-			<h2 class="w3layouts w3 w3l agileinfo slideanim">About Us</h2>
+			<h2 class="rojgarmela w3 w3l agileinfo slideanim">About Us</h2>
 			<img src="images/about-img.jpg" class="max img-responsive slideanim" alt="">
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-6 about-info2">
-			<p class="about-p1 w3layouts w3 w3l agileinfo slideanim">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit nisl, ullamcorper eget elit vitae, vehicula consequat neque. Nunc sit amet orci at orci blandit dictum a sed diam. Curabitur ut pharetra sem. Aliquam erat volutpat. Cras scelerisque, nunc nec vulputate hendrerit, est neque pretium velit, at vulputate tortor neque ut ex. Vivamus sollicitudin eleifend urna, vitae hendrerit neque. Etiam egestas commodo dolor ut pulvinar. Maecenas in ipsum cursus, commodo justo sed, cursus neque.</p>
-			<p class="about-p1 wthree w3-agileits agileits-w3layouts agile w3-agile slideanim">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit nisl, ullamcorper eget elit vitae, vehicula consequat neque. Nunc sit amet orci at orci blandit dictum a sed diam.</p>
+			<p class="about-p1 rojgarmela w3 w3l agileinfo slideanim">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit nisl, ullamcorper eget elit vitae, vehicula consequat neque. Nunc sit amet orci at orci blandit dictum a sed diam. Curabitur ut pharetra sem. Aliquam erat volutpat. Cras scelerisque, nunc nec vulputate hendrerit, est neque pretium velit, at vulputate tortor neque ut ex. Vivamus sollicitudin eleifend urna, vitae hendrerit neque. Etiam egestas commodo dolor ut pulvinar. Maecenas in ipsum cursus, commodo justo sed, cursus neque.</p>
+			<p class="about-p1 wthree w3-agileits agileits-rojgarmela agile w3-agile slideanim">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit nisl, ullamcorper eget elit vitae, vehicula consequat neque. Nunc sit amet orci at orci blandit dictum a sed diam.</p>
 			<ul class="sides slideanim">
 				<li><p><span class="fa fa-fighter-jet" aria-hidden="true"></span> Literati Education, We Build Smiles.</p></li>
 				<li><p><span class="fa fa-fighter-jet" aria-hidden="true"></span> Literati Education, The Key To Success.</p></li>
@@ -102,7 +100,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <section class="team-w3ls slideanim" id="team">
 	<div class="container">
 		<h3 class="slideanim">Our Staff</h3>
-		<p class="text-header wthree w3-agileits agileits-w3layouts agile w3-agile slideanim">The Best</p>
+		<p class="text-header wthree w3-agileits agileits-rojgarmela agile w3-agile slideanim">The Best</p>
 		<div class="col-lg-4 col-md-4 col-sm-4 team-agile1">
 			<div class="team-info">
 				<img src="images/team-img1.jpg" alt="" class="img-responsive slideanim">
@@ -596,7 +594,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <section class="footer">
 	<div class="container">
 		<div class="copyright">
-			<p>&copy; 2017 Literati. All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts </a></p>
+			<p>&copy; 2017 Literati. All Rights Reserved | Design by <a href="http://rojgarmela.com/"> rojgarmela </a></p>
 		</div>
 	</div>
 </section>
