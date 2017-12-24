@@ -4,10 +4,10 @@ Author URL: http://rojgarmela.com
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Literati An Education Category Flat Bootstrap Responsive  Website Template | Home :: rojgarmela</title>
+<title>rojgarmela An Education Category Flat Bootstrap Responsive  Website Template | Home :: rojgarmela</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Literati a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+<meta name="keywords" content="rojgarmela a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <!-- font files -->
 <link href='//fonts.googleapis.com/css?family=Muli:400,300,300italic,400italic' rel='stylesheet' type='text/css'>
@@ -26,14 +26,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 <body>
 <div class="topbar-w3ls">
-	<a href="index.html" class="logo"><h1>Literati</h1></a>	
+	<a href="index.html" class="logo"><h1>rojgarmela</h1></a>	
 	<div class="top-agileits">
 		<form class="search-container" action="#" method="post">
 			<input id="search-box" type="text" class="search-box" name="q" placeholder="Search Here"/>	
 			<label for="search-box"><span class="glyphicon glyphicon-search search-icon"></span></label>	
 			<input type="submit" id="search-submit" />
 		</form>	
-		<p><span class="glyphicon glyphicon-phone-alt"></span> +1 515 151515</p>
+		<p><span class="glyphicon glyphicon-phone-alt"></span> +91-9523908398</p>
 		<div class="clearfix"></div>
 	</div>
 </div>
@@ -87,9 +87,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<p class="about-p1 rojgarmela w3 w3l agileinfo slideanim">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit nisl, ullamcorper eget elit vitae, vehicula consequat neque. Nunc sit amet orci at orci blandit dictum a sed diam. Curabitur ut pharetra sem. Aliquam erat volutpat. Cras scelerisque, nunc nec vulputate hendrerit, est neque pretium velit, at vulputate tortor neque ut ex. Vivamus sollicitudin eleifend urna, vitae hendrerit neque. Etiam egestas commodo dolor ut pulvinar. Maecenas in ipsum cursus, commodo justo sed, cursus neque.</p>
 			<p class="about-p1 wthree w3-agileits agileits-rojgarmela agile w3-agile slideanim">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit nisl, ullamcorper eget elit vitae, vehicula consequat neque. Nunc sit amet orci at orci blandit dictum a sed diam.</p>
 			<ul class="sides slideanim">
-				<li><p><span class="fa fa-fighter-jet" aria-hidden="true"></span> Literati Education, We Build Smiles.</p></li>
-				<li><p><span class="fa fa-fighter-jet" aria-hidden="true"></span> Literati Education, The Key To Success.</p></li>
-				<li><p><span class="fa fa-fighter-jet" aria-hidden="true"></span> Literati Education, The Perfection At Its Finest.</p></li>
+				<li><p><span class="fa fa-fighter-jet" aria-hidden="true"></span> rojgarmela Education, We Build Smiles.</p></li>
+				<li><p><span class="fa fa-fighter-jet" aria-hidden="true"></span> rojgarmela Education, The Key To Success.</p></li>
+				<li><p><span class="fa fa-fighter-jet" aria-hidden="true"></span> rojgarmela Education, The Perfection At Its Finest.</p></li>
 			</ul>
 		</div>
 		<div class="clearfix"></div>
@@ -163,7 +163,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port19.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port19.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port19.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -174,7 +174,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port1.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-								<a href="images/port1.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+								<a href="images/port1.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -185,7 +185,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port2.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                                <a href="images/port2.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                                <a href="images/port2.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -196,7 +196,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port3.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                              	<a href="images/port3.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                              	<a href="images/port3.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -207,7 +207,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port4.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-								<a href="images/port4.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+								<a href="images/port4.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -218,7 +218,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port5.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port5.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port5.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -229,7 +229,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port6.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port6.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port6.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -240,7 +240,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port7.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port7.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port7.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -251,7 +251,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port8.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port8.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port8.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -262,7 +262,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port9.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port9.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port9.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -273,7 +273,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port10.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port10.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port10.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -284,7 +284,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port11.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port11.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port11.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -295,7 +295,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port12.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port12.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port12.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -306,7 +306,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port13.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port13.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port13.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -317,7 +317,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port14.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port14.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port14.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -328,7 +328,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port15.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port15.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port15.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -339,7 +339,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port16.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port16.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port16.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -350,7 +350,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port17.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port17.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port17.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -361,7 +361,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port18.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port18.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port18.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -372,7 +372,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/port19.jpg" alt="">
 						<div class="he-view">
 							<div class="bg a0" data-animate="fadeIn">
-                               	<a href="images/port19.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="Literati"><i class="fa fa-search"></i></a>
+                               	<a href="images/port19.jpg" class="dmbutton a2 thumbnail" data-animate="fadeInUp" title="rojgarmela"><i class="fa fa-search"></i></a>
                         	</div><!-- he bg -->
 						</div><!-- he view -->		
 					</div><!-- he wrap -->
@@ -505,7 +505,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						<h4 class="modal-title text-center" id="myModalLabel1">Literati</h4>
+						<h4 class="modal-title text-center" id="myModalLabel1">rojgarmela</h4>
 					</div>
 					<div class="modal-body">
 						<div class="col-lg-6 col-md-6 col-sm-12">
@@ -525,7 +525,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						<h4 class="modal-title text-center" id="myModalLabel2">Literati</h4>
+						<h4 class="modal-title text-center" id="myModalLabel2">rojgarmela</h4>
 					</div>
 					<div class="modal-body">
 						<div class="col-lg-6 col-md-6 col-sm-12">
@@ -545,6 +545,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- /updates -->
 <section class="map slideanim">
 	<iframe class="googlemaps" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d380510.6741687111!2d-88.01234121699822!3d41.83390417061058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1455598377120" style="border:0" allowfullscreen></iframe>
+	<iframe class="googlemaps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.87831654586!2d86.95705601438908!3d25.241023136116574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f04a7277663691%3A0xbea11dff068ef166!2sVardayani+Institute+of+IT+and+Management!5e0!3m2!1sen!2sin!4v1514113376264" style="border:0" allowfullscreen></iframe>
 </section>
 <!-- /Google Map -->
 <section class="contact-us slideanim" id="contact">
@@ -555,11 +556,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-lg-5 col-md-5">
 				<div class="contact-info">
 					<h4 class="slideanim">Connect With Us :-</h4>
-					<p class="slideanim"><span>Phone</span>123.456.7890</p>
+					<p class="slideanim"><span>Phone</span>+91-9523908398</p>
 					<p class="slideanim"><span>Email</span><a href="mailto:name@example.com">name@example.com</a></p>
 					<p class="addr slideanim"><span>Address</span>3481 Melrose Place,Beverly Hills, Chicago 90210.</p>
 					<ul class="social-icons2">
-						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="https://www.facebook.com/viim08feb2016/"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 						<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 						<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
@@ -594,7 +595,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <section class="footer">
 	<div class="container">
 		<div class="copyright">
-			<p>&copy; 2017 Literati. All Rights Reserved | Design by <a href="http://rojgarmela.com/"> rojgarmela </a></p>
+			<p>&copy; 2017 rojgarmela. All Rights Reserved | Design by <a href="http://rojgarmela.com/"> rojgarmela </a></p>
 		</div>
 	</div>
 </section>
