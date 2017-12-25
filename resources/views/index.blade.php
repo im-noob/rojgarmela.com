@@ -42,16 +42,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- navigation -->
 	<div class="navbar-wrapper">
 		<div class="container-fluid">
-			<nav class="navbar navbar-inverse navbar-static-top">
+			<nav class="navbar navbar-inverse ">
 				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" data-spy="affix" data-offset-top="800">
 						<span class="sr-only">Toggle navigation</span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
 				</div>
-				<div id="navbar" class="navbar-collapse collapse">
+				<div id="navbar" class="navbar-collapse collapse" data-spy="affix" data-offset-top="0">
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="index.html" class="page-scroll">Home</a></li>
 						<li><a href="#about" class="page-scroll">About</a></li>

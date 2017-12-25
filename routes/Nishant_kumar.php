@@ -11,6 +11,8 @@
 
 
 
-
+Route::get("/main",function(){
+	return view("Rogarmela_Registration.rojgarmela_student_registration");
+});
 
 ?>
