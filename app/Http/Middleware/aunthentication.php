@@ -3,6 +3,7 @@
 namespace App\Http\Middleware;
 
 use Closure;
+use Redirect;
 
 class aunthentication
 {
@@ -15,7 +16,7 @@ class aunthentication
      */
     public function handle($request, Closure $next)
     {
-            if($request->sesseion()->has('username') && $request->session()->has('user_type')){
+            if($request->session()->has('username') && $request->session()->has('user_type')){
                 $user_type = $request->session()->get('user_type');
                 if($user_type=="user"){
                     echo "welcome user";
@@ -24,11 +25,11 @@ class aunthentication
                 }else if($user_type=="sadmin"){
                     echo "welcome superAdmin";
                 }else{
-                    return Redirect::to("/");
+                    return Redirect::to("/Adminlg");
                 }
             }
             else{
-                return Redirect::to("/");
+                return Redirect::to("/index");
             }
         return $next($request);
     }

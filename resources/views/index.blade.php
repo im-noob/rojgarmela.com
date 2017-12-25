@@ -138,7 +138,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 						<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
 					</ul>
-				</div>
+				</div> 
 			</div>
 		</div>
 	</div>
