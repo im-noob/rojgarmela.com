@@ -1,17 +1,17 @@
 @extends('Admin.AdminParent')
-@section('ApplyHistory')
+@section('ViewListUser')
 	
 		<style>
 		 
 		 
 		</style>
-		<title>Apply History | sarkariformbharo - Free Bootstrap Form Apply Template</title>
+		<title>View List User | SulabhNaukari </title>
 		<!-- MAIN -->
 		<div class="main">
 			<!-- MAIN CONTENT -->
 			<div class="main-content">
 				<div class="container-fluid">
-					<h3 class="page-title">Apply History</h3>
+					<h3 class="page-title">View List User </h3>
 					<div class="row">
 						<div class="">
 							<!-- TABLE STRIPED -->

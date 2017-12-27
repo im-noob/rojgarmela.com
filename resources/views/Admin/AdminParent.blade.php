@@ -27,15 +27,20 @@
 	<!-- ICONS -->
 	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
 	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png">
+	<style type="text/css">
+		.main{
+			background:#AEB7C2;
+		}
+	</style>
 </head>
 
 <body>
 	<!-- WRAPPER -->
 	<div id="wrapper">
 		<!-- NAVBAR -->
-		<nav class="navbar navbar-default navbar-fixed-top">
+		<nav style="color:white; background: skyblue" class="navbar navbar-default navbar-fixed-top">
 			<div class="brand">
-				<a href="FormApply.html"><img src="assets/img/logo-dark.png" alt="sarkariformbharo Logo" class="img-responsive logo"></a>
+				<a href="FormApply.html"><img src="assets/img/logo-dark.png" alt="SulabhNaukari Logo" class="img-responsive logo"></a>
 			</div>
 			<div class="container-fluid">
 				<div class="navbar-btn">
@@ -47,17 +52,13 @@
 					<ul class="nav navbar-nav navbar-right">
 						 
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="lnr lnr-question-circle"></i> <span>Help</span> <i class="icon-submenu lnr lnr-chevron-down"></i></a>
-							<ul class="dropdown-menu">
-								<li><a href="indexMain#contact">Contact To Developer</a></li>
-							</ul>
+							<a style="color:white; " href="indexMain#contact"><i class="lnr lnr-question-circle"></i> <span style="color:white;">Help</span></a>
 						</li>
 						
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="fa fa-user"></span><span>{{Session::get('username')}}</span> <i class="icon-submenu lnr lnr-chevron-down"></i></a>
-							<ul class="dropdown-menu">
-								 
-								<li>
+							<a style="color:white; background: black" href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="fa fa-user"></span><span >{{Session::get('username')}}</span> <i class="icon-submenu lnr lnr-chevron-down"></i></a>
+							<ul  class="dropdown-menu">
+								<li >
 									<a href="{{url('/logout_link')}}"><i class="lnr lnr-exit"></i> 
 										<span class="btn btn-danger">Logout</span>
 									</a>
@@ -73,13 +74,40 @@
 		
 		
 		<!-- LEFT SIDEBAR -->
-		<div id="sidebar-nav" class="sidebar">
+		<div style=" background: rgb(0,0,0);"  id="sidebar-nav" class="sidebar">
 			<div class="sidebar-scroll">
 				<nav>
 					<ul class="nav">
-						<li><a href="Dashboard" id = "activeTab" onclick = "activeTab()"><i class="lnr lnr-home"></i> <span>Dashboard</span></a></li>
-						<li><a href="ApplyHistory" id = "" onclick = "activeTab()"><i class="lnr lnr-code"></i> <span>Apply History</span></a></li>
-						<li><a href="ApplyList" id = "" onclick = "activeTab()"><i class="lnr lnr-dice"></i> <span>Apply List</span></a></li>
+						<li>
+							<a href="Dashboard" id = "activeTab" onclick = "activeTab()"><i class="lnr lnr-pencil"> </i>
+								<span>Dashboard</span>
+							</a>
+						</li>
+						<li>
+							<a href="NewPost" id = "" onclick = "activeTab()"><i class="lnr lnr-rocket"></i> 
+								<span>New Post</span>
+							</a>
+						</li>
+						<li>
+							<a href="ViewListUser" id = "" onclick = "activeTab()"><i class="lnr lnr-list"></i>
+								<span>View List User</span>
+							</a>
+						</li>
+						<li>
+							<a href="CreateJob" id = "" onclick = "activeTab()"><i class="lnr lnr-dice"></i> 
+								<span>Create Job</span>
+							</a>
+						</li>
+						<li>
+							<a href="ViewListUser" id = "" onclick = "activeTab()"><i class="lnr lnr-list"></i>
+								<span>View List User</span>
+							</a>
+						</li>
+						<li>
+							<a href="ViewPartiUser" id = "" onclick = "activeTab()"><i class="lnr lnr-user"></i>
+								<span>View Particular User</span>
+							</a>
+						</li>
 					</ul>
 				</nav>
 			</div>
@@ -90,16 +118,19 @@
 		
 		
 		<!-- MAIN -->
-		@yield('ApplyHistory');
 		@yield('Dashboard');
-		@yield('ApplyList');
+		@yield('NewPost');
+		@yield('CreateJob');
+		@yield('ViewListUser');
+		@yield('ViewPartiUser');
+
 		<!-- END MAIN -->
 		
 		
 	</div>
 	<footer>
 			<div class="container-fluid">
-				<b><p class="copyright">&copy; 2017 <a href="https://www.sarkariformbharo.com" target="_blank">sarkariformbharo.com</a>. All Rights Reserved.</p></b>
+				<b><p class="copyright">&copy; 2017 <a href="https://www.SulabhNaukari.com" target="_blank">SulabhNaukari.com</a>. All Rights Reserved.</p></b>
 			</div>
 	</footer>
 	<!-- END WRAPPER -->
@@ -109,7 +140,7 @@
 	<script src="assets/vendor/jquery-slimscroll/jquery.slimscroll.min.js"></script>
 	<script src="assets/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
 	
-	<script src="assets/scripts/sarkariformbharo-common.js"></script>
+	<script src="assets/scripts/SulabhNaukari-common.js"></script>
 	<script>
 
 		function activeTab(){

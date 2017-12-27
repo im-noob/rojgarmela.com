@@ -29,7 +29,7 @@
 					<div class="left">
 						<div class="content">
 							<div class="header">
-								<h3 class="load" style="color: green;">Sarkariformbharo.coms</h3>
+								<h3 class="load" style="color: green;">SulabhNaukari.coms</h3>
 								<p class="lead">LOGIN TO YOUR PRESONAL ACCOUNT</p>
 							</div>
 			 				<form class="form-auth-small" method="post" action="{{url('/checkingp')}}">
@@ -52,7 +52,7 @@
 					</div>
 					<div class="right">
 						<div class="content text" >
-							<h1 style="color: blue;"><BIG><big>Sarkariformbharo.com</big></BIG></h1>
+							<h1 style="color: blue;"><BIG><big>SulabhNaukari.com</big></BIG></h1>
 							<h2 style="color: green;">Admin Login Pannel</h2>
 						</div>
 					</div>
