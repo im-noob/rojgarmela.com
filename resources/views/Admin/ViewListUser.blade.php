@@ -88,7 +88,11 @@
 													<td>2</td>
 													<td>Bank OP</td>
 													<td>Don2</td>
-													 
+													<td>
+														<button type="button" class="btn btn-success">
+															<i class="fa fa-check 5x" aria-hidden="true"></i>In Progress...
+														</button>
+													</td>
 													<td>11-11-2018</td>
 													<td>
 														<button data-toggle="modal" data-target="#myModal" type="button" class="btn btn-default">
@@ -100,7 +104,11 @@
 													<td>3</td>
 													<td>SSC</td>
 													<td>Don</td>
-													 
+													<td>
+														<button type="button" class="btn btn-success">
+															<i class="fa fa-check 5x" aria-hidden="true"></i>In Progress...
+														</button>
+													</td> 
 													<td>11-11-2018</td>
 													<td>
 														<button data-toggle="modal" data-target="#myModal" type="button" class="btn btn-default">
@@ -112,7 +120,11 @@
 													<td>4</td>
 													<td>SSC</td>
 													<td>Don</td>
-													 
+													<td>
+														<button type="button" class="btn btn-success">
+															<i class="fa fa-check 5x" aria-hidden="true"></i>In Progress...
+														</button>
+													</td> 
 													<td>11-11-2018</td>
 													<td>
 														<button data-toggle="modal" data-target="#myModal" type="button" class="btn btn-default">
@@ -124,7 +136,11 @@
 													<td>5</td>
 													<td>SSC</td>
 													<td>Don</td>
-													 
+													<td>
+														<button type="button" class="btn btn-success">
+															<i class="fa fa-check 5x" aria-hidden="true"></i>In Progress...
+														</button>
+													</td> 
 													<td>11-11-2018</td>
 													<td>
 														<button data-toggle="modal" data-target="#myModal" type="button" class="btn btn-default">
@@ -136,7 +152,11 @@
 													<td>6</td>
 													<td>SSC</td>
 													<td>Don</td>
-													 
+													<td>
+														<button type="button" class="btn btn-success">
+															<i class="fa fa-check 5x" aria-hidden="true"></i>In Progress...
+														</button>
+													</td> 
 													<td>11-11-2018</td>
 													<td>
 														<button data-toggle="modal" data-target="#myModal" type="button" class="btn btn-default">

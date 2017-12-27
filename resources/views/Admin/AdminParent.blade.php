@@ -93,11 +93,6 @@
 							</a>
 						</li>
 						<li>
-							<a href="ViewListUser" id = "" onclick = "activeTab()"><i class="lnr lnr-list"></i>
-								<span>View List User</span>
-							</a>
-						</li>
-						<li>
 							<a href="CreateJob" id = "" onclick = "activeTab()"><i class="lnr lnr-dice"></i> 
 								<span>Create Job</span>
 							</a>
