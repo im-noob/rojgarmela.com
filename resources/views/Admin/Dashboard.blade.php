@@ -14,7 +14,7 @@
 			.timer {
 				font-size: 400%;
 				text-align: center;
-				color: cyan;
+				color: rgb(0,255,0);
 				
 			}
 			.panel{
@@ -22,6 +22,12 @@
 			}
 			.panel-heading{
 				color: white;
+			}
+			.main{
+				background-image: url(images/banner3.jpg);
+			}
+			.col-sm-6{
+				opacity: .7;
 			}
 </style>
 		<title> Dashboard | SulabhNaukari </title>

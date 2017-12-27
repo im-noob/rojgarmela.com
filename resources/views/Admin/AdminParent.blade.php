@@ -31,6 +31,10 @@
 		.main{
 			background:#AEB7C2;
 		}
+		.sidebar-scroll{
+			background-image: url(images/banner4.jpg);
+			background-repeat: repeat-x;
+		}
 	</style>
 </head>
 
@@ -38,7 +42,7 @@
 	<!-- WRAPPER -->
 	<div id="wrapper">
 		<!-- NAVBAR -->
-		<nav style="color:white; background: skyblue" class="navbar navbar-default navbar-fixed-top">
+		<nav style="color:white; background: skyblue;" class="navbar navbar-default navbar-fixed-top">
 			<div class="brand">
 				<a href="FormApply.html"><img src="assets/img/logo-dark.png" alt="SulabhNaukari Logo" class="img-responsive logo"></a>
 			</div>
@@ -56,7 +60,7 @@
 						</li>
 						
 						<li class="dropdown">
-							<a style="color:white; background: black" href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="fa fa-user"></span><span >{{Session::get('username')}}</span> <i class="icon-submenu lnr lnr-chevron-down"></i></a>
+							<a style="color:white; background: black; opacity: 0.8;" href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="fa fa-user"></span><span style="opacity: 0.8;">{{Session::get('username')}}</span> <i class="icon-submenu lnr lnr-chevron-down"></i></a>
 							<ul  class="dropdown-menu">
 								<li >
 									<a href="{{url('/logout_link')}}"><i class="lnr lnr-exit"></i> 
@@ -77,9 +81,9 @@
 		<div style=" background: rgb(0,0,0);"  id="sidebar-nav" class="sidebar">
 			<div class="sidebar-scroll">
 				<nav>
-					<ul class="nav">
+					<ul style="opacity: 0.9;" class="nav">
 						<li>
-							<a href="Dashboard" id = "activeTab" onclick = "activeTab()"><i class="lnr lnr-pencil"> </i>
+							<a style="opacity: 1.0" href="Dashboard" id = "activeTab" onclick = "activeTab()"><i class="lnr lnr-pencil"> </i>
 								<span>Dashboard</span>
 							</a>
 						</li>
