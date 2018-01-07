@@ -6,12 +6,12 @@
 
 
 		<style>
-			#line {
+			#line{
 				border-bottom-style:  solid;
 				border-bottom-color: coral;
 				border-width: 5px;
 			}
-			.timer {
+			.timer{
 				font-size: 400%;
 				text-align: center;
 				color: rgb(0,255,0);
