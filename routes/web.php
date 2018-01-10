@@ -16,7 +16,7 @@ include_once(__DIR__.'/amritesh_kumar.php');
 |
 */
 
-Route::get('/', function () {
+Route::get('/index', function () {
     return view('index');
 });
 

@@ -1,0 +1,17 @@
+#notice{
+
+
+	position: relative;
+	height: 600px;
+	width:360px;
+	background-color: red; 
+}
+#about_us{
+
+	position:relative;
+	width: 1148px;
+	left: 350px;
+	height:600px;
+	background-color: green;
+	top:-600px;
+}

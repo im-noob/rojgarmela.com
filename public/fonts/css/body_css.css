@@ -1,0 +1,7 @@
+ .body {
+   
+    height: 750px;
+    width: 200px;
+    background: red; /* For browsers that do not support gradients */
+    background: linear-gradient(to right,red 5%, yellow, green); /* Standard syntax (must be last) */
+		}
