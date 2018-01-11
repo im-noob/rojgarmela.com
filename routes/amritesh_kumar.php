@@ -46,4 +46,43 @@ Route::post('/contact2',"main\contact_us@contact");
 	Admin Section End Here 
 */
 
+/* 
+	user section starts here 
+*/
+Route::get('home',function(){
+	return view('User.home');
+});
+
+Route::get('apply',function(){
+	return view('User.apply');
+});
+
+Route::get('result',function(){
+	return view('User.result');
+});
+
+Route::get('job',function(){
+	return view('User.job');
+});
+
+Route::get('admit_card',function(){
+	return view('User.admit_card');
+});
+
+Route::get('notice',function(){
+	return view('User.notice');
+});	
+
+Route::get('about_us',function(){
+	return view('User.about_us');
+});																							
+
+
+
+
+ 
+/* 
+	user section ends here 
+*/
+
 ?>

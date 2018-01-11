@@ -1,74 +1,7 @@
-<!DOCTYPE html>
-<html lang="en-us">
-    <head>
-    	<title>ROJGARMELA</title>
+@extends('User.UserParent')
+@section('home')
 
-    	<!-- meta -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <!-- stylesheet -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/owl.carousel.css">
-		<link rel="stylesheet" href="css/owl.theme.min.css">
-        <link rel="stylesheet" href="css/animate.css">
-		<link rel="stylesheet" href="css/main.css">
-
-		<!-- google font -->
-        <link href='http://fonts.googleapis.com/css?family=Oswald:300,400' rel='stylesheet'>
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Oxygen:400,300' rel='stylesheet' type='text/css'>
-        <link href="http://fonts.googleapis.com/css?family=Rouge+Script" rel="stylesheet" type="text/css">
-        <link href='http://fonts.googleapis.com/css?family=Milonga' rel='stylesheet' type='text/css'>
-    </head>
-    <body>
-        <div class="content-block" id="header">
-            <div id="overlay-1">
-                <header id="site-header" class="clearfix">
-                    <div class="pull-left">
-                        <h1><a href="#">ROJGARMELA</a></h1>
-                    </div>
-                    <div class="pull-right">
-                        <nav class="navbar site-nav" role="navigation">
-                            <!-- Brand and toggle get grouped for better mobile display -->
-                            <div class="navbar-header">
-                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                                    <i class="fa fa-bars fa-2x"></i>
-                                </button>
-                            </div>
-
-                            <!-- Collect the nav links, forms, and other content for toggling -->
-                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                                <ul class="nav navbar-nav">
-                                    <li class="active"><a href="#header"><i class="fa fa-home"></i> <span>Home</span></a></li>
-                                    <li><a href="#apply"><i class="fa fa-bookmark"></i> Apply</a></li>
-                                    <li><a href="#notice"><i class="fa fa-bullhorn"></i> Notice</a></li>
-
-                                    <li class="dropdown">
-                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Notice
-                                        <span class="caret"></span></a>
-                                        <ul style="background:black;" class="dropdown-menu">
-                                              <li><a href="#">Result</a></li>
-                                              <li><a href="#">Job</a></li>
-                                              <li><a href="#">Admit Card</a></li>
-                                              <li><a href="#">Notice</a></li>
-
-                                        </ul>
-                                    </li>
-
-
-                                    <li><a href="#testimonials"><i class="fa fa-thumbs-up"></i> Tetimonials</a></li>
-                                    <li><a href="#about_us"><i class="fa fa-users"></i> About Us</a></li>
-                                    <li><a href="#contact"><i class="fa fa-phone-square"></i> Contact</a></li>
-                                </ul>
-                            </div>  <!-- /.navbar-collapse -->
-                        </nav>
-                    </div>
-                </header>	<!-- site-header -->
-                
+                <title>ROJGARMELA(Home)</title>
                 <div class="middle text-center clearfix">
                     <div class="container">
                         <h1 class="pro-name">Hub of<span style="color: #71b644;" > JOB</span></h1>
@@ -197,14 +130,14 @@
                         </figcaption>
                     </div>
                 </div>
-            </div>	<!-- isotope portfolio-items -->
+            </div>  <!-- isotope portfolio-items -->
             <a href="#" class="btn btn-lg btn-view">
                 <i class="fa fa-eye"></i>
                 <span>View All</span>
             </a>
         </div>  <!-- content-block -->
 
-        <div class="content-block text-center" id="services">
+     <!--    <div class="content-block text-center" id="services">
             <div class="overlay-2">
                         <header class="block-heading cleafix">
                             <h1>More About Me</h1>
@@ -233,7 +166,7 @@
                             </div>
                         </div>
                     </div>    <!-- overlay-2 -->
-        </div>  <!-- content-block -->
+        </div>  <!-- content-block --> -->
         <div id="services" class="content-block">
             <div id="numbers" class="parallax">
                 <div class="overlay">
@@ -288,49 +221,37 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3">
-                        	<div class="owl-carousel">
-								<div class="owl-item">
-									<div class="testimonial">
+                            <div class="owl-carousel">
+                                <div class="owl-item">
+                                    <div class="testimonial">
                                         <img alt="Client Photo" src="img/testimonial_31-190x190.jpg">
                                         <p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales nibh. Etiam nulla magna, gravida eget ultricies sit amet.</p>
                                         <strong>Jhon Doe</strong><br>
                                         <span>Head of Ideas, Technext</span>
                                     </div>
-								</div>	<!-- owl-item -->
-								<div class="owl-item">
-									<div class="testimonial">
+                                </div>  <!-- owl-item -->
+                                <div class="owl-item">
+                                    <div class="testimonial">
                                         <img alt="Client Photo" src="img/testimonial_11-190x190.jpg">
                                         <p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales nibh. Etiam nulla magna, gravida eget ultricies sit amet.</p>
                                         <strong>Jane Doe</strong><br>
                                         <span>CEO, Apple Inc</span>
                                     </div>
-								</div>	<!-- owl-item -->
-								<div class="owl-item">
-									<div class="testimonial">
+                                </div>  <!-- owl-item -->
+                                <div class="owl-item">
+                                    <div class="testimonial">
                                         <img alt="Client Photo" src="img/testimonial_22-190x190.jpg">
                                         <p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales nibh. Etiam nulla magna, gravida eget ultricies sit amet.</p>
                                         <strong>Albert Doe</strong><br>
                                         <span>Team Lead, Design Studio</span>
                                     </div>
-								</div>	<!-- owl-item -->
-							</div>	<!-- owl-carousel -->
-						</div>	<!-- col-md-12 -->
-                    </div>	<!-- row -->
-                </div>	<!-- container -->
-            </div>	<!-- block-content -->
-        </div>	<!-- content-block -->
-
-
-
-<div class="container-fluid">
-    <div class="row">H
-        <div class="col-sm-12">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28870.985847550248!2d86.9597266!3d25.2411944!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbea11dff068ef166!2sVardayani+Institute+of+IT+and+Management!5e0!3m2!1sen!2sin!4v1515651489687" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
-        </div>
-    </div>
-</div>
-
-
+                                </div>  <!-- owl-item -->
+                            </div>  <!-- owl-carousel -->
+                        </div>  <!-- col-md-12 -->
+                    </div>  <!-- row -->
+                </div>  <!-- container -->
+            </div>  <!-- block-content -->
+        </div>  <!-- content-block -->
 
 
 
@@ -393,26 +314,9 @@
                             </div>
                         </div>
                     </div>
-                </div>	<!-- block-content -->
-            </div>	<!-- overlay-3 -->
-        </div>	<!-- content-block -->
-
-        <!-- map modal -->
-   <!--      <div class="modal" id="thismodal">
-            <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h3>Get Direction To visit</h3>
-                    </div>
-                    <div class="modal-body">
-                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28870.985847550248!2d86.9597266!3d25.2411944!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbea11dff068ef166!2sVardayani+Institute+of+IT+and+Management!5e0!3m2!1sen!2sin!4v1515651489687" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    </div>
-                    <div class="modal-footer">
-                        <button class="btn btn-danger" data-dismiss="modal">Close</button>
-                    </div>
-                </div>
-            </div>
-        </div> -->
+                </div>  <!-- block-content -->
+            </div>  <!-- overlay-3 -->
+        </div>  <!-- content-block -->
 
           <!-- Modal -->
           <div class="modal fade" id="thismodal" role="dialog">
@@ -432,58 +336,4 @@
             </div>
           </div>
         </div>
-
-        <footer id="site-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-6">
-                        <div class="copyright">&copy; 2018 ROJGARMELA</div>
-                    </div>
-                    <div class="col-sm-6">
-                        <div class="designed-by">Designed By <a href="http://JavaAP.com/" target="_blank">JavaAP</a></div>
-                    </div>
-                </div>
-            </div>
-        </footer>	<!-- site-footer -->
-
-
-        <!-- // js 
-        <script>
-            new WOW().init();
-        </script> -->
-
-        <script src="js/jquery-2.1.3.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.actual.min.js"></script>
-        <script src="js/isotope.pkgd.min.js"></script>
-        <script src="js/owl.carousel.min.js"></script>
-        <script src="js/jquery.isonscreen.js"></script>
-       
-        <script src="js/main.js"></script>
-
-        <script>
-        	$(document).ready(function(){
-  				$('.owl-carousel').owlCarousel({
-    				loop:true,
-    				margin:10,
-    				autoplay:true,
-    				autoplayTimeout:3000,
-    				autoplayHoverPause:true,
-    				responsiveClass:true,
-    				responsive:{
-        					0:{
-					            items:1,
-        					},
-					        600:{
-					            items:1,
-					        },
-					        1000:{
-					            items:1,
-					        }
-    				}
-				})
-			});
-        </script>
-
-	</body>
-</html>
+@endsection
