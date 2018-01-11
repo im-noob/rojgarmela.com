@@ -3,6 +3,7 @@
 include_once(__DIR__.'/Nishant_kumar.php');
 
 include_once(__DIR__.'/amritesh_kumar.php');
+include_once(__DIR__.'/awdhesh.php');
 
 
 /*
@@ -16,8 +17,6 @@ include_once(__DIR__.'/amritesh_kumar.php');
 |
 */
 
-Route::get('/index', function () {
+Route::get('/', function () {
     return view('index');
 });
-
-
