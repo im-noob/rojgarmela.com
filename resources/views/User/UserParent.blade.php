@@ -82,17 +82,16 @@
                                 <div class="copyright">&copy; 2018 ROJGARMELA</div>
                             </div>
                             <div class="col-sm-6">
-                                <div class="designed-by">Designed By <a href="http://JavaAP.com/" target="_blank">JavaAP</a></div>
+                                <div class="designed-by">Designed By 
+                                        <a href="team" target="_blank" class="btn btn-primary speical-btn" type="button">JavaAP</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </footer>	<!-- site-footer -->
+                
 
-
-        <!-- // js 
-        <script>
-            new WOW().init();
-        </script> -->
+               
 
         <script src="js/jquery-2.1.3.min.js"></script>
         <script src="js/bootstrap.min.js"></script>

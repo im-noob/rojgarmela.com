@@ -21,7 +21,7 @@
 
         <div class="content-block text-center" id="portfolio">
             <header class="block-heading cleafix">
-                <h1>Latest Works</h1>
+                <h1>Latest Job's</h1>
                 <!-- <p>Take a look at some of my recent products</p> -->
             </header>
 
@@ -131,10 +131,6 @@
                     </div>
                 </div>
             </div>  <!-- isotope portfolio-items -->
-            <a href="#" class="btn btn-lg btn-view">
-                <i class="fa fa-eye"></i>
-                <span>View All</span>
-            </a>
         </div>  <!-- content-block -->
 
      <!--    <div class="content-block text-center" id="services">
@@ -214,7 +210,7 @@
 
         <div class="content-block" id="testimonials">
             <header class="block-heading cleafix text-center">
-                <h1>What Clients Say</h1>
+                <h1>Our Teams</h1>
                 <!-- <p>Lorem Ipsum Text</p> -->
             </header>
             <div class="block-content text-center">
@@ -225,25 +221,41 @@
                                 <div class="owl-item">
                                     <div class="testimonial">
                                         <img alt="Client Photo" src="img/testimonial_31-190x190.jpg">
-                                        <p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales nibh. Etiam nulla magna, gravida eget ultricies sit amet.</p>
-                                        <strong>Jhon Doe</strong><br>
-                                        <span>Head of Ideas, Technext</span>
+                                        <p>I am the member of JavaAP and i have proud to my team.we want to change the India and change IT world of India. We will try to make all India Digital.</p>
+                                        <strong>Amritesh Kumar</strong><br>
+                                        <span>DBA & Backend Developer</span>
                                     </div>
                                 </div>  <!-- owl-item -->
                                 <div class="owl-item">
                                     <div class="testimonial">
                                         <img alt="Client Photo" src="img/testimonial_11-190x190.jpg">
-                                        <p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales nibh. Etiam nulla magna, gravida eget ultricies sit amet.</p>
-                                        <strong>Jane Doe</strong><br>
-                                        <span>CEO, Apple Inc</span>
+                                        <p>I am the member of JavaAP and i have proud to my team.we want to change the India and change IT world of India. We will try to make all India Digital.</p>
+                                        <strong>Awdhesh Kumar</strong><br>
+                                        <span>Fontend & Backend Developer</span>
                                     </div>
                                 </div>  <!-- owl-item -->
                                 <div class="owl-item">
                                     <div class="testimonial">
                                         <img alt="Client Photo" src="img/testimonial_22-190x190.jpg">
-                                        <p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales nibh. Etiam nulla magna, gravida eget ultricies sit amet.</p>
-                                        <strong>Albert Doe</strong><br>
-                                        <span>Team Lead, Design Studio</span>
+                                        <p>I am the member of JavaAP and i have proud to my team.we want to change the India and change IT world of India. We will try to make all India Digital.</p>
+                                        <strong>Birendra Kumar Sharma</strong><br>
+                                        <span>Fontend & Backend Developer</span>
+                                    </div>
+                                </div>  <!-- owl-item -->
+                                <div class="owl-item">
+                                    <div class="testimonial">
+                                        <img alt="Client Photo" src="img/testimonial_31-190x190.jpg">
+                                        <p>I am the member of JavaAP and i have proud to my team.we want to change the India and change IT world of India. We will try to make all India Digital.</p>
+                                        <strong>Mayank kumar Singh</strong><br>
+                                        <span>Fontend & Backend Developer</span>
+                                    </div>
+                                </div>  <!-- owl-item -->
+                                <div class="owl-item">
+                                    <div class="testimonial">
+                                        <img alt="Client Photo" src="img/testimonial_31-190x190.jpg">
+                                        <p>I am the member of JavaAP and i have proud to my team.we want to change the India and change IT world of India. We will try to make all India Digital.</p>
+                                        <strong>Nishant Kumar</strong><br>
+                                        <span>Fontend & Backend Developer</span>
                                     </div>
                                 </div>  <!-- owl-item -->
                             </div>  <!-- owl-carousel -->

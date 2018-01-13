@@ -77,7 +77,9 @@ Route::get('about_us',function(){
 	return view('User.about_us');
 });																							
 
-
+Route::get('team', function(){
+	return view('User.team');
+});
 
 
  

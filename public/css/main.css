@@ -675,7 +675,7 @@ input[type="submit"]:hover {
 
 #site-footer {
     /* background-color: #35405f; */
-    background-color: rgba(32, 178, 170, 0.86);
+    background-color: black;
     color: #fff;
     padding: 14px;
     font-size: 14px;
@@ -726,6 +726,12 @@ i.fa.fa-envelope-o {
 	width: auto;
 	line-height: 43px;
 	margin-top: -22px;
+}
+/* special effect on footer button */
+.speical-btn{
+	color: #fff;
+    background-color: #020e01;
+    border-color: rgb(83, 255, 0);
 }
 /* ///////////////////////////////////////////////////////////////////// 
 //  11 - Responsive styles
