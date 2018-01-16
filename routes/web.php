@@ -1,8 +1,8 @@
 <?php
 
-include_once(__DIR__.'/Nishant_kumar.php');
-
 include_once(__DIR__.'/amritesh_kumar.php');
+include_once(__DIR__.'/awdhesh.php');
+include_once(__DIR__.'/Nishant_kumar.php');
 
 
 /*
@@ -15,9 +15,6 @@ include_once(__DIR__.'/amritesh_kumar.php');
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-Route::get('/index', function () {
-    return view('index');
+Route::get('/',function(){
+	return view('User.home');
 });
-
-
