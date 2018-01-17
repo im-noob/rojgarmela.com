@@ -10,13 +10,21 @@
 /*
 	Admin Section Start Here 
 */
-///// Applicatin Seciton /////
+///// Application Seciton /////
 Route::get('Dashboard',function(){
 	return view('Admin.Dashboard');
 })->middleware('allow');
 
-Route::get('NewPost', function(){
-	return view('Admin.NewPost');
+Route::get('PostResult', function(){
+	return view('Admin.PostResult');
+})->middleware('allow');
+
+Route::get('PostAdmitCard', function(){
+	return view('Admin.PostAdmitCard');
+})->middleware('allow');
+
+Route::get('PostNotice', function(){
+	return view('Admin.PostNotice');
 })->middleware('allow');
 
 Route::get('CreateJob', function(){
@@ -45,6 +53,8 @@ Route::post('/contact2',"main\contact_us@contact");
 /*
 	Admin Section End Here 
 */
+
+
 
 /* 
 	user section starts here 

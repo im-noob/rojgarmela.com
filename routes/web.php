@@ -15,6 +15,11 @@ include_once(__DIR__.'/Nishant_kumar.php');
 | contains the "web" middleware group. Now create something great!
 |
 */
+/* basic no */
 Route::get('/',function(){
+	return view('User.home');
+});
+
+Route::get('/index', function(){
 	return view('User.home');
 });

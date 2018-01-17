@@ -45,7 +45,7 @@
                                 <ul class="nav navbar-nav">
                                     <li class="active"><a href="home"><i class="fa fa-home"></i> <span>Home</span></a></li>
                                     <li><a href="apply"><i class="fa fa-bookmark"></i> Apply</a></li>
-                                    <li><a href="job"><i class="fa fa-bullseye"></i> job</a></li>
+                                    <li><a href="home#job"><i class="fa fa-bullseye"></i> job</a></li>
                                     <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="fa fa-bullhorn"></i> Notice
                                         <span class="caret"></span></a>
@@ -56,7 +56,7 @@
 
                                         </ul>
                                     </li>
-                                    <li><a href="about_us"><i class="fa fa-users"></i> About Us</a></li>
+                                    <li><a href="home#about_us"><i class="fa fa-users"></i> About Us</a></li>
                                     <li><a href="home#contact"><i class="fa fa-phone-square"></i> Contact</a></li>
                                 </ul>
                             </div>  <!-- /.navbar-collapse -->

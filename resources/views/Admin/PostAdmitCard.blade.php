@@ -1,12 +1,12 @@
 @extends('Admin.AdminParent')
-@section('ViewPartiUser')		
+@section('PostAdmitCard')		
 		<!-- MAIN -->
-		<title>New Post | SulabhNaukari -  </title>
+		<title>Post Admit Card | SulabhNaukari -  </title>
 		<div class="main">
 			<!-- MAIN CONTENT -->
 			<div class="main-content">
 				<div class="container-fluid">
-					<h3 class="page-title">New Post</h3>
+					<h3 class="page-title">Post Admit Card</h3>
 					<div class="row">
 						<div class="">
 							<!-- TABLE STRIPED -->

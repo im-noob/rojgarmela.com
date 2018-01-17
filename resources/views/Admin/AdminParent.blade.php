@@ -88,8 +88,18 @@
 							</a>
 						</li>
 						<li>
-							<a href="NewPost" id = "" onclick = "activeTab()"><i class="lnr lnr-rocket"></i> 
-								<span>New Post</span>
+							<a href="PostResult" id = "" onclick = "activeTab()"><i class="lnr lnr-rocket"></i> 
+								<span>Post Result</span>
+							</a>
+						</li>
+						<li>
+							<a href="PostAdmitCard" id = "" onclick = "activeTab()"><i class="lnr lnr-rocket"></i> 
+								<span>Post Admit Card</span>
+							</a>
+						</li>
+						<li>
+							<a href="PostNotice" id = "" onclick = "activeTab()"><i class="lnr lnr-rocket"></i> 
+								<span>Post Notice</span>
 							</a>
 						</li>
 						<li>
@@ -117,11 +127,13 @@
 		
 		
 		<!-- MAIN -->
-		@yield('Dashboard');
-		@yield('NewPost');
-		@yield('CreateJob');
-		@yield('ViewListUser');
-		@yield('ViewPartiUser');
+		@yield('Dashboard')
+		@yield('PostResult')
+		@yield('PostAdmitCard')
+		@yield('PostNotice')
+		@yield('CreateJob')
+		@yield('ViewListUser')
+		@yield('ViewPartiUser')
 
 		<!-- END MAIN -->
 		

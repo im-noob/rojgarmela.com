@@ -19,7 +19,7 @@
             </div>  <!-- overlay-1 -->
         </div>  <!-- content-block -->
 
-        <div class="content-block text-center" id="portfolio">
+        <div class="content-block text-center" id="job">
             <header class="block-heading cleafix">
                 <h1>Latest Job's</h1>
                 <!-- <p>Take a look at some of my recent products</p> -->
@@ -163,7 +163,7 @@
                         </div>
                     </div>    <!-- overlay-2 -->
         </div>  <!-- content-block --> -->
-        <div id="services" class="content-block">
+        <div id="about_us" class="content-block">
             <div id="numbers" class="parallax">
                 <div class="overlay">
                     <!-- title -->
@@ -309,7 +309,7 @@
                                                     <i class="fa fa-envelope-o"></i>
                                                 </div>
                                                 <p>
-                                                    <strong> Email:</strong> ROJGARMELA@gmail.com
+                                                    <strong> Email:</strong><a style="color:white" href="mailto:rojgarmela@gmail.com?Subject=Mail_from_rojgarmela_site" target="_top"> rojgarmela@gmail.com</a>
                                                 </p>
                                             </div>
                                         </div>

@@ -1,12 +1,12 @@
 @extends('Admin.AdminParent')
-@section('CreateJob')		
+@section('PostNotice')		
 		<!-- MAIN -->
-		<title>Create Job | SulabhNaukari -  </title>
+		<title>Post Notice | SulabhNaukari -  </title>
 		<div class="main">
 			<!-- MAIN CONTENT -->
 			<div class="main-content">
 				<div class="container-fluid">
-					<h3 class="page-title">Create Job</h3>
+					<h3 class="page-title">Post Notice</h3>
 					<div class="row">
 						<div class="">
 							<!-- TABLE STRIPED -->
