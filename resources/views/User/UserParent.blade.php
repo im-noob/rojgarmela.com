@@ -26,7 +26,7 @@
     </head>
     <body>
         <div class="content-block" id="header">
-            <div id="overlay-1">
+            <div style="position: relative;height: 750px;">
                 <header id="site-header" class="clearfix">
                     <div class="pull-left">
                         <h1><a href="home">ROJGARMELA</a></h1>
