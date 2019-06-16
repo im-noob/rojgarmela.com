@@ -59,7 +59,7 @@
 						</div>
 						
 						<!-- Awdhesh -->
-						<div class="item-square-2">
+						<!-- <div class="item-square-2">
 							<div class="title">
 								<h3>Awdhesh</h3>
 							</div>
@@ -78,7 +78,7 @@
 									</ul>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						
 						<!-- Birendra -->
 						<div class="item-square-2">
@@ -103,7 +103,7 @@
 						</div>
 						
 						<!-- Mayank -->
-						<div class="item-square-2">
+						<!-- <div class="item-square-2">
 							<div class="title">
 								<h3>Mayank</h3>
 							</div>
@@ -122,7 +122,7 @@
 									</ul>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						
 						<!-- Nishant -->
 						<div class="item-square-2">
