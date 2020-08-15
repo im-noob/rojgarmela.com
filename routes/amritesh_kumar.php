@@ -5,7 +5,7 @@
 |_______________________________|
 |-------------------------------|
 |
-|
+| 
 */
 /*
 	Admin Section Start Here 
@@ -13,29 +13,29 @@
 ///// Application Seciton /////
 Route::get('Dashboard',function(){
 	return view('Admin.Dashboard');
-})->middleware('allow');
+});//->middleware('allow');
 
 Route::get('PostResult', function(){
 	return view('Admin.PostResult');
-})->middleware('allow');
+});//->middleware('allow');
 
 Route::get('PostAdmitCard', function(){
 	return view('Admin.PostAdmitCard');
-})->middleware('allow');
+});//->middleware('allow');
 
 Route::get('PostNotice', function(){
 	return view('Admin.PostNotice');
-})->middleware('allow');
+});//->middleware('allow');
 
 Route::get('CreateJob', function(){
 	return view('Admin.CreateJob');
-})->middleware('allow');
+});//->middleware('allow');
 
-Route::get('ViewPartiUser','Admin\apply_list_controller@ViewPartiUser')->middleware('allow');
+Route::get('ViewPartiUser','Admin\apply_list_controller@ViewPartiUser');//->middleware('allow');
  
 Route::get('/ViewListUser',function(){
 	return view('Admin.ViewListUser');
-})->middleware('allow');
+});//->middleware('allow');
 
 
 ///// Login Section ///// 
